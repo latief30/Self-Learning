@@ -1,2 +1,2 @@
-# latief-Coin
-Latief Coin
+# Self Learning
+self learning
